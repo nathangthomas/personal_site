@@ -1,3 +1,38 @@
 body{
-  background-color: blue;
+  background-color: ;
+}
+
+a:hover{color: grey;}
+
+.header{
+  /* position: fixed;
+  width: 100%; */
+  color: grey;
+  text-align: center;
+  padding: 25px;
+  background-color: black;
+}
+
+.story{
+  padding: 50px;
+  padding-top: 2px;
+  width: 400px;
+  font-size: 1em;
+  background-color: grey;
+  border: 3px solid black;
+}
+
+footer {
+  position: fixed;
+  padding: 15px;
+  padding-bottom: 30px;
+  background-color: black;
+  color: white;
+  font-size: 0.75em;
+  width: 100%;
+  bottom: 10px;
+}
+
+#date{
+  text-align: right;
 }
